@@ -9,6 +9,7 @@
 <body class="bg-gray-100">
 <div class="flex">
     <!-- Sidebar -->
+
 @include('layouts.partials.sidebar')
 
 <!-- Main Content -->
